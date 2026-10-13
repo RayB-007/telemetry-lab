@@ -50,4 +50,4 @@ Streaming input and decimation for large logs would be useful additions. Real ha
 
 ## Portfolio
 
-More projects and background: [rayansh.dev](https://rayansh.dev/projects/).
+More projects and background: [rayansh.dev](https://rayansh.dev/).
